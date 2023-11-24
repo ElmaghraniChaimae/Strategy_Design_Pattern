@@ -2,4 +2,5 @@
 Implementation basique du design pattern Strategy.
 
 Capture d'écran d'exécution 
-![Uploading image.png…]()
+
+![Strategy](https://github.com/ElmaghraniChaimae/Strategy_Design_Pattern/assets/134980999/04913e6c-1f75-47e0-98be-abaf25cc3524)
